@@ -1,7 +1,7 @@
 # SomeApp
 
 ## How to automatically add a checklist to a pull request. 
-1. Add a file called `PULL_REQUEST_TEMPLATE.md` in the root folder of the repository. 
+1. Add a file called `PULL_REQUEST_TEMPLATE.md` in the root folder of the repository. [See this link for more details](https://github.blog/2016-02-17-issue-and-pull-request-templates/)
 2. Add a check list in markdown format 
 eg: 
 ```
