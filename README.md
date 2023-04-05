@@ -15,3 +15,5 @@ Have I done these ?:
  3. Create a PR. 
  4. The check list will appear at the rop of the `Conversation` tab of the PR. 
  ![foo](./images/how%20checklist%20looks%20in%20github%20pr.png)
+ 5. Author of the PR would be able to tick the check boxes. 
+ 
