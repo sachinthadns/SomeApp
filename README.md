@@ -9,13 +9,21 @@
 
 eg: 
 ```
-Have I done these ?:
+# Code Readiness Checklist 
+
+This checklist is to be completed by the pull request creator.
+Reviewer will not review the code until all items are ticked.
+The purpose of this is checklist to remind the developer of frequently missed steps when writing code. 
+
+## Have I done these? 
+*Please tick items if you have done them OR they are not applicable for this code change*
 - [ ] Ran Prepare
 - [ ] Tested as roles
 - [ ] Added unit tests
 - [ ] Added regression test areas to the card
 - [ ] Showcase done
 ```
+
  3. Create a PR. 
  4. The check list will appear at the rop of the `Conversation` tab of the PR. 
  ![foo](./images/how%20checklist%20looks%20in%20github%20pr.png)
