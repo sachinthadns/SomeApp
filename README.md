@@ -16,13 +16,20 @@ Reviewer will not review the code until all items are ticked.
 The purpose of this checklist is to remind the developer of frequently missed steps when writing code. 
 
 ## Have I done these? 
-*Please tick items if you have done them OR they are not applicable for this code change*
-- [ ] Ran Prepare
-- [ ] Tested as roles
-- [ ] Added unit tests
-- [ ] Added regression test areas to the card
-- [ ] Showcase done
-```
+
+- Ran Prepare 
+  - [ ] Yes
+  - [ ] N/A 
+- Tested as roles
+  - [ ] Yes
+  - [ ] N/A 
+- Added regression test areas to the card
+  - [ ] Yes
+  - [ ] N/A 
+- Showcase done
+  - [ ] Yes
+  - [ ] N/A 
+  ```
 
  3. Create a PR. 
  4. The check list will appear at the rop of the `Conversation` tab of the PR. 
